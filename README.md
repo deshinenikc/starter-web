@@ -3,6 +3,8 @@ this is a simple website project
 
 ## Introduction
 
+Adding introduction
+
 ## Purpose
 
 ## Deployment
